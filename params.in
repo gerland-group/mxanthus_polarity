@@ -1,0 +1,33 @@
+## Input file for M. xanthus polarity simulator
+
+#total simulation duration
+t_total = 1000
+#output interval
+sampling_interval = 0.2
+
+#initial polar fractions of each protein
+[initial_fractions_A]
+pole1 = 0.011
+pole2 = 0.01
+[initial_fractions_B]
+pole1 = 0.011
+pole2 = 0.01
+[initial_fractions_R]
+pole1 = 0.011
+pole2 = 0.01
+
+[model_parameters]
+kA = 0.0104
+kAR = 2.74
+dA = 3.5
+dAB = 14000
+kB = 0.0099
+kBR = 3.36
+dB = 5
+dBA = 5360
+kR = 0.0034
+kRR = 1.58
+kRB = 1.19
+dR = 1.5
+K = 0.0094
+Rbias = 0.034
