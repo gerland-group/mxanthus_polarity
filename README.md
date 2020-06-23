@@ -4,8 +4,7 @@
 
 This software was used in the manuscript "Protein-protein interaction network
 controlling establishment and maintenance of switchable cell polarity" by
-Carreira L.A.M., Tostevin F., Gerland U. & Søgaard-Andersen L. (_full
-publication details to follow_).
+Carreira L.A.M., Tostevin F., Gerland U. & Søgaard-Andersen L. ([PLoS Genetics 16(6): e1008877](https://doi.org/10.1371/journal.pgen.1008877)).
 
 ## Build
 
